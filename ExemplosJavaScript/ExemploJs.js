@@ -30,3 +30,16 @@ let number = 1284791098433;
 
 let isEven = (number % 2) === 0;
 console.log(isEven);
+
+
+// Come saber se o númer o é diferente de 3
+let otherNumber = 6;
+
+let isDifferent = otherNumber !== 3;
+console.log(isDifferent);
+
+
+// Potências
+let potencia = num1 ** 2;
+console.log(potencia);
+
